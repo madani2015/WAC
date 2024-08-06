@@ -138,8 +138,7 @@ for company_id, company_data in wac_results.items():
 ```
 
 ### Future Enhancements
-Implement functions for calculating the Cost of Goods Sold (COGS)
-calculating the Cost of Goods Sold (COGS) using the resulting weighted average cost (WAC). The steps for COGS calculation are:
+Implement functions for calculating the Cost of Goods Sold (COGS) using the resulting weighted average cost (WAC). The steps for COGS calculation are:
 
 Ending Inventory Q-1
 Air Out
